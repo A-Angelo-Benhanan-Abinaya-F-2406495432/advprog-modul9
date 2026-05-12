@@ -23,3 +23,10 @@ Each message is very small so the total data sent per run is roughly only a few 
 ### 4. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 
 It means both the publisher and subscriber are connecting to the same RabbitMQ broker at the same address. The publisher uses it to send events to the broker and the subscriber uses it to listen for events from that same broker. Neither program talks directly to the other. The broker in the middle is what receives, stores, and forwards the messages. This is the core idea of event-driven architecture. The publisher and subscriber are completely independent and only coupled through the shared broker.
+
+### 5. RabbitMQ
+
+[![RabbitMQ](./assets/rabbitmq.png)]
+
+[![RabbitMQ Logged In](./assets/rabbitmq_loggedin.png)]
+
