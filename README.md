@@ -42,3 +42,10 @@ It means both the publisher and subscriber are connecting to the same RabbitMQ b
 ### 8. Slow User
 
 ![RabbitMQ](./assets/rabbitmq_4.png)
+
+### 9. Multiple Subscribers
+
+![RabbitMQ](./assets/rabbitmq_5.png)
+![Subscriber 1](./assets/subscriber_2_1.png)
+![Subscriber 2](./assets/subscriber_2_2.png)
+![Subscriber 3](./assets/subscriber_2_3.png)
