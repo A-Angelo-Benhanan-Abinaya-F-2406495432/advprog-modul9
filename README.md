@@ -26,7 +26,11 @@ It means both the publisher and subscriber are connecting to the same RabbitMQ b
 
 ### 5. RabbitMQ
 
-[![RabbitMQ](./assets/rabbitmq.png)]
+![RabbitMQ](./assets/rabbitmq.png)
+![RabbitMQ Logged In](./assets/rabbitmq_loggedin.png)
 
-[![RabbitMQ Logged In](./assets/rabbitmq_loggedin.png)]
+### 5. Event
 
+![RabbitMQ](./assets/rabbitmq_2.png)
+![Publisher](./assets/publisher_1.png)
+![Subscriber](./assets/subscriber_1.png)
