@@ -29,12 +29,16 @@ It means both the publisher and subscriber are connecting to the same RabbitMQ b
 ![RabbitMQ](./assets/rabbitmq_1.png)
 ![RabbitMQ Logged In](./assets/rabbitmq_loggedin.png)
 
-### 5. Event
+### 6. Event
 
 ![RabbitMQ](./assets/rabbitmq_2.png)
 ![Publisher](./assets/publisher_1.png)
 ![Subscriber](./assets/subscriber_1.png)
 
-### 5. Publisher Acitivity
+### 7. Publisher Acitivity
 
 ![RabbitMQ](./assets/rabbitmq_3.png)
+
+### 8. Slow User
+
+![RabbitMQ](./assets/rabbitmq_4.png)
